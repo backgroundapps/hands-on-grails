@@ -14,3 +14,5 @@ Hands On Grails:
  - `Heroku      	   `: Plataforma na nuvem de hospedagem de código em execução mais famosa do mercado.
  - `MongoDB          `: O banco de dados não relacional +(NoSQL)+ mais aceito pelos desenvolvedores.
  - `Twitter Bootstrap`: Template super completo criado pela Twitter.
+ 
+Acesse: [Hands on Grails](http://jonatasemidio.github.io/hands-on-grails/)
