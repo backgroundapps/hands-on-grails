@@ -13,6 +13,6 @@ Hands On Grails:
  - `Grails      	   `: Framework que reúne as ferramentes Java mais adotadas para aplicações web com foco na produtividade. 
  - `Heroku      	   `: Plataforma na nuvem de hospedagem de código que se integra com o git.
  - `MongoDB          `: Um dos bancos de dados não relacional (NoSQL) mais aceito pelos desenvolvedores.
- - `Twitter Bootstrap`: Template super completo criado pela Twitter.
+ - `Material Design`: Classic principles of good design by Google.
  
 Acesse: [Hands on Grails](http://jonatasemidio.github.io/hands-on-grails/)
