@@ -1,12 +1,12 @@
 Hands On Grails:
 ===
 
-####HandOnGrails ensinará as principais táticas para o desenvolvimento Web Grails 100% HandsOn.
+#### HandOnGrails ensinará as principais táticas para o desenvolvimento Web Grails 100% HandsOn.
 ---
-######Seleção a dedo das tecnologias criadas para turbinar a produtividade do seu projeto!
-#####Ao final do treinamento o desenvolvedor terá feito uma aplicação web em uma estrutura de causar inveja em muita empresa grande!
+###### Seleção a dedo das tecnologias criadas para turbinar a produtividade do seu projeto!
+##### Ao final do treinamento o desenvolvedor terá feito uma aplicação web em uma estrutura de causar inveja em muita empresa grande!
 
-####Fique por dentro do que o mercado mais pede em recursos tecnológicos e boas práticas.
+#### Fique por dentro do que o mercado mais pede em recursos tecnológicos e boas práticas.
 
 * **Material:**
  - `Git / GitHub     `: Controlador de versão com hospedagem local e na nuvem mais famoso do mercado. 
